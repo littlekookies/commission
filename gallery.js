@@ -19,6 +19,7 @@ const images = [
   'images/gallery/commission result 24.png',
   'images/gallery/commission result 25.png',
   'images/gallery/commission result 26.png',
+  'images/gallery/commission result 26.png',
   'images/gallery/commission result 27.png'
 ];
 
